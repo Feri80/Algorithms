@@ -1,0 +1,5 @@
+for k 1 to n
+for i 1 to n
+for j 2 to n
+dis(i,j)=min(dis(i,j),dis(i,k)+dis(k,j))
+O(n^3)

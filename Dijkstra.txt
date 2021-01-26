@@ -1,0 +1,10 @@
+set s;
+for on n 
+insert (dis(i),i)
+while(s.size())
+give u 
+erase u from s
+for on u naighbors
+give v and w
+update on dis and s
+O(mlogm)

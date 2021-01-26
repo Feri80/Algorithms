@@ -1,0 +1,16 @@
+root(a)
+	if par[a]=a return a
+	else par[a]=root(par[a])
+	return root(par[a])
+union(a,b)
+	par[root(a)]=root(b)
+krus()
+	sort G
+	mst.clear
+	for on n
+		par[i]=i
+	for on m
+		give f,t
+		if root(f)!=root(t)
+			mst.pu
+			union(f,t)

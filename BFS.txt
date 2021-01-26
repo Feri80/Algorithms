@@ -1,0 +1,8 @@
+All dis = inf
+dis(s)=0
+vector l
+add s
+for on l give u
+for on u adjacent
+update and insert to l
+O(n+m)

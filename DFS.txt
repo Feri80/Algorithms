@@ -1,0 +1,4 @@
+mark u
+for on u adjacents
+if dont mark dfs on them
+O(n+m)

@@ -1,0 +1,8 @@
+vec w,e
+arr dis s=0 other=inf
+for n-1 
+u,v
+dis(v)=min(dis(v),dis(u)+w(j))
+O(nm)
+We can run it n time instead of n-1 time if in last time any dis changed
+graph has negative cycle

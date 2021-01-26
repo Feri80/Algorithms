@@ -1,0 +1,5 @@
+for on n if deg =0 push 
+for on vector
+for on neighbors of each deg--
+if deg =0 push
+O(n)
